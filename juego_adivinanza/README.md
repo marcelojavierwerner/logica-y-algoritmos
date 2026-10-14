@@ -1,6 +1,6 @@
 # Juego de Adivinanza en C++ 🎮
 
-Este proyecto es un juego interactivo de consola desarrollado en C++. Fue creado como parte de la Tecnicatura Superior en Programación para consolidar los fundamentos de lógica computacional, estructuras de control y manejo básico de memoria.
+Este proyecto es un juego interactivo de consola desarrollado en C++. Fue creado como parte de mi formacion en la Tecnicatura Superior en Programación para consolidar los fundamentos de lógica computacional, estructuras de control y manejo básico de memoria en la materia Logica de Programacion.
 
 ## 📝 Descripción
 
@@ -33,7 +33,3 @@ Para compilar y ejecutar este juego en tu máquina local, necesitas tener un com
    ```bash
    ./adivinanza
    ```
-   *(En Windows, simplemente ejecuta `adivinanza.exe`)*
-
-## 💡 Próximos pasos
-Este proyecto es una base sólida en programación estructurada. Futuras iteraciones podrían incluir el refactor del código hacia el paradigma Orientado a Objetos (POO) o el uso exclusivo de `std::vector` para un manejo de memoria más dinámico.
